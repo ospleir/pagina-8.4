@@ -79,3 +79,51 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     float: left;
 
 }
+.imging1{
+    height: 200px;
+    width: 200px;
+    background-image: url("OIP\ \(2\).jpeg");
+    background-repeat: no-repeat;
+    float: left;
+
+}
+.imging2{
+    height: 200px;
+    width: 200px;
+    background-image: url("OIP\ \(3\).jpeg");
+    background-repeat: no-repeat;
+    float: left;
+
+}
+.imging3{  
+    height: 200px;
+    width: 200px;
+    background-image: url("descarga\ \(3\).jpeg");
+    background-repeat: no-repeat;
+    float: left;
+
+}
+.imging4{
+    height: 200px;
+    width: 200px;
+    background-image: url("OIP\ \(4\).jpeg");
+    background-repeat: no-repeat;
+    float: left;
+
+}
+.imging5{
+    height: 200px;
+    width: 200px;
+    background-image: url("descarga\ \(4\).jpeg");
+    background-repeat: no-repeat;
+    float: left;
+
+}
+.imging6{
+    height: 200px;
+    width: 200px;
+    background-image: url("descarga\ \(5\).jpeg");
+    background-repeat: no-repeat;
+    float: left;
+
+}
